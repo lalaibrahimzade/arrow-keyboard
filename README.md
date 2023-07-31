@@ -1,3 +1,3 @@
 # arrow-keyboard
-![Ekran görüntüsü 2023-07-31 123829](https://github.com/lalaibrahimzade/test/assets/116654316/9d66df3c-72bc-43cb-b8bb-53a9253e1a36)
-![Ekran görüntüsü 2023-07-31 124430](https://github.com/lalaibrahimzade/test/assets/116654316/c1299991-987a-4059-ae40-27dacbeff074)
+![Ekran görüntüsü 2023-07-31 123829](https://github.com/lalaibrahimzade/test/assets/116654316/09f46b98-27f4-4e48-9536-6a9199014fc0)
+![Ekran görüntüsü 2023-07-31 124430](https://github.com/lalaibrahimzade/test/assets/116654316/c66d3082-c2bd-4fc8-8b6a-b1a35e1208ac)
